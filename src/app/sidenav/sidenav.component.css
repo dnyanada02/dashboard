@@ -1,0 +1,16 @@
+.sidenav{
+    background-color: rgba(51, 51, 51, 0.9);
+    width: 16.5%;
+    float: left;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.sub-title{
+    margin-left: 1rem;
+    color: blueviolet;
+    font-size: 0.7rem;
+}
+li:hover {
+    background-color: rgba(51, 51, 51, 0.9);
+  }
